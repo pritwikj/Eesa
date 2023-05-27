@@ -1,4 +1,4 @@
-# Productivity assistant test use cases
+# Productivity assistant
 
 ## About
 This project provides users with a powerful and versatile productivity tool. It seamlessly integrates data analysis, meeting automation, and productivity features to enhance efficiency and productivity. By leveraging natural language processing and voice recognition capabilities, users can interact with the AI assistant conversationally, simplifying complex tasks and enabling quick and accurate results.
