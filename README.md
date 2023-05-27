@@ -10,9 +10,15 @@ The tool utilizes state-of-the-art generative AI algorithms to understand user q
 
 ## Features
 Natural Language Interface: The tool accepts natural language inputs, including voice commands, allowing users to interact with it conversationally.
+
 Data Extraction: It enables users to extract data reports from a variety of applications, simplifying the process of gathering data for analysis.
+
 Data Analysis: Users can perform various data analysis tasks, such as generating graphs, visualizing trends, and calculating summary statistics.
+
 Insights and Recommendations: The tool provides insights and recommendations based on the analyzed data, helping users gain deeper understanding and make informed decisions.
+
 User-Friendly Interface: The tool offers an intuitive and user-friendly interface, making it accessible to both technical and non-technical users.
+
 Real-Time Insights: During meetings, the AI assistant can generate real-time insights and recommendations based on the analyzed data, helping make data-driven decisions on the spot.
+
 Productivity Tasks: Users can perform various productivity tasks, such as drafting and sending emails, composing and sending text messages, and booking reservations, simply by using voice commands in natural language.
