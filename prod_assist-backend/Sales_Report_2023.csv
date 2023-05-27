@@ -1,0 +1,399 @@
+Location,Brand,Order_ID,Customer_Name,Menu_Item,Quantity,Sub_Total,Tax,Total_Sales,Total_Paid,Payment_Source,Service_Location,Order_Date,Day_Name,Month_Name,Year,Week
+Anaheim,Biriyani Factory,628877,Manikandan Sachidanandan,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,7.17,77.16,77.16,Square Credit/Debit Card,Pasadena,2022-12-30,Friday,December,2022,52
+Anaheim,Biriyani Factory,628917,Vinay Gundi,Hyderabadi Egg Bucket Biriyani (Serve 4 to 5 people),1,44.99,4.27,49.26,49.26,Square Apple Pay,Diamond Bar,2022-12-30,Friday,December,2022,52
+Anaheim,Just Curry,628926,Nag,Telugu Non Veg Bundle,1,74.99,5.81,80.8,80.8,Square Credit/Debit Card,Irvine,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,628945,Manoj,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Santa Clarita,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,628952,Pgandikota,Hyderabadi Egg Bucket Biriyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Credit/Debit Card,Brea,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,628952,Pgandikota,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Brea,2022-12-31,Saturday,December,2022,52
+Anaheim,Just Curry,628959,Sonia Mahesh ,Telugu Non Veg Bundle,1,74.99,5.81,80.8,80.8,Square Apple Pay,Irvine,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,628959,Sonia Mahesh ,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,628959,Sonia Mahesh ,Tamil Style Veg Bucket Biriyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Apple Pay,Irvine,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,628960,Vijay Gardiner ,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),2,59.99,8.7,128.68,128.68,Square Credit/Debit Card,Simi Valley,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,628963,Sonia Mahesh ,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Apple Pay,Brea,2022-12-31,Saturday,December,2022,52
+Anaheim,Just Curry,628996,Sabarigirivasan Jayaraman,Tamil Non Veg Bundle,1,74.99,5.81,80.8,80.8,Square Credit/Debit Card,Irvine,2022-12-31,Saturday,December,2022,52
+Anaheim,Aachi Chettinad,628996,Sabarigirivasan Jayaraman,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card,Irvine,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,629021,Ravi,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Brea,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,629058,Ajithkumar Vijayakumar,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.0,65.99,65.99,Square Credit/Debit Card,Torrance,2022-12-31,Saturday,December,2022,52
+Anaheim,Aachi Chettinad,629072,Shiva Neyyila,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.71,93.7,93.7,Square Apple Pay,Montebello,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,629077,Sam Davidson,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.43,75.42,75.42,Square Credit/Debit Card,Chino,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,629077,Sam Davidson,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.43,75.42,75.42,Square Credit/Debit Card,Chino,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,629078,Senthilnathan Sivachidambaram,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Chino,2022-12-31,Saturday,December,2022,52
+Anaheim,Biriyani Factory,629407,Simpy Verma,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Burbank,2023-01-04,Wednesday,January,2023,1
+Anaheim,Biriyani Factory,629417,Ashwin N,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Santa Clarita,2023-01-04,Wednesday,January,2023,1
+Anaheim,Biriyani Factory,629430,Nagamani Dandamudi,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-01-04,Wednesday,January,2023,1
+Anaheim,Just Curry,629470,Himatha,Tamil Veg Bundle,1,64.99,5.04,70.03,70.03,Square Credit/Debit Card,Irvine,2023-01-05,Thursday,January,2023,1
+Anaheim,Biriyani Factory,629482,Ram Narayanasamy,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-01-05,Thursday,January,2023,1
+Anaheim,Kizhi Parotta,629494,Partha Balakrishnan,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Brea,2023-01-05,Thursday,January,2023,1
+Anaheim,Kizhi Parotta,629501,Harikrishna KR,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Square Credit/Debit Card,Irvine,2023-01-05,Thursday,January,2023,1
+Anaheim,Kizhi Parotta,629502,Kiran Chandra,Kizhi Parotta Non Veg Bundle (serves 4 people),2,59.99,9.3,129.28,129.28,Square Apple Pay,Irvine,2023-01-05,Thursday,January,2023,1
+Anaheim,Kizhi Parotta,629507,Rathi Rajan,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Glendale,2023-01-05,Thursday,January,2023,1
+Anaheim,Kizhi Parotta,629521,Hariharan,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.35,64.34,64.34,Square Apple Pay,Simi Valley,2023-01-05,Thursday,January,2023,1
+Anaheim,Kizhi Parotta,629529,Mothilal M Rajesh,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Square Credit/Debit Card,Eastvale,2023-01-05,Thursday,January,2023,1
+Anaheim,Biriyani Factory,629612,Sam P,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card, Anaheim,2023-01-06,Friday,January,2023,1
+Anaheim,Biriyani Factory,629616,Anand Muthumanickam,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Culver City,2023-01-07,Saturday,January,2023,1
+Anaheim,Aachi Chettinad,629622,Vidyacho,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Paypal, Anaheim,2023-01-07,Saturday,January,2023,1
+Anaheim,Aachi Chettinad,629636,Jamil Badrudeen,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Paypal,Chino,2023-01-07,Saturday,January,2023,1
+Anaheim,Just Curry,629647,Martin Mariadoss,Tamil Non Veg Bundle,1,74.99,7.12,82.11,82.11,Square Credit/Debit Card,Santa Clarita,2023-01-07,Saturday,January,2023,1
+Anaheim,Biriyani Factory,629655,Arun Subramanian,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Eastvale,2023-01-07,Saturday,January,2023,1
+Anaheim,Aachi Chettinad,629730,Prasad Kasturi,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card,Eastvale,2023-01-07,Saturday,January,2023,1
+Anaheim,Biriyani Factory,629739,Dhiyanesh ,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Glendale,2023-01-07,Saturday,January,2023,1
+Anaheim,Biriyani Factory,629752,Mahesh Babu,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Eastvale,2023-01-07,Saturday,January,2023,1
+Anaheim,Biriyani Factory,629766,Sreenadh Sanam,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Santa Clarita,2023-01-07,Saturday,January,2023,1
+Anaheim,Biriyani Factory,629767,Poojan Shivashankar,Tamil Style Veg Bucket Biriyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Apple Pay,Irvine,2023-01-07,Saturday,January,2023,1
+Anaheim,Biriyani Factory,630040,Nixon James,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card,Ontario,2023-01-11,Wednesday,January,2023,2
+Anaheim,Kizhi Parotta,630045,Bnag,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,4.75,54.74,54.74,Square Apple Pay,Los Angeles,2023-01-11,Wednesday,January,2023,2
+Anaheim,Kizhi Parotta,630048,Mohammed Sabir,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-01-11,Wednesday,January,2023,2
+Anaheim,Kizhi Parotta,630063,Nixon James,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Ontario,2023-01-11,Wednesday,January,2023,2
+Anaheim,Kizhi Parotta,630075,Uday,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.15,66.14,66.14,Square Apple Pay,Burbank,2023-01-11,Wednesday,January,2023,2
+Anaheim,Kizhi Parotta,630081,Suresh vincent,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Los Angeles,2023-01-11,Wednesday,January,2023,2
+Anaheim,Kizhi Parotta,630086,Karthik,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Palos Verdes Peninsula,2023-01-11,Wednesday,January,2023,2
+Anaheim,Biriyani Factory,630146,Kamatchi ,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Paypal,Arcadia,2023-01-12,Thursday,January,2023,2
+Anaheim,Biriyani Factory,630155,Subin Nair,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Diamond Bar,2023-01-12,Thursday,January,2023,2
+Anaheim,Kizhi Parotta,630159,Faisal Mohamed,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-01-12,Thursday,January,2023,2
+Anaheim,Biriyani Factory,630166,Jagdishsahu,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Montebello,2023-01-12,Thursday,January,2023,2
+Anaheim,Kizhi Parotta,630167,Deepika Shahani,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-01-12,Thursday,January,2023,2
+Anaheim,Kizhi Parotta,630171,Madhu,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.0,65.99,65.99,Square Credit/Debit Card,Torrance,2023-01-12,Thursday,January,2023,2
+Anaheim,Biriyani Factory,630174,Ranjeeta,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.07,75.06,75.06,Square Credit/Debit Card,Simi Valley,2023-01-12,Thursday,January,2023,2
+Anaheim,Just Curry,630175,Mohan Balagopalan,Telugu Veg Bundle,1,64.99,5.04,70.03,70.03,Square Credit/Debit Card,Ontario,2023-01-12,Thursday,January,2023,2
+Anaheim,Kizhi Parotta,630176,Kaleel M Ahmed,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-01-12,Thursday,January,2023,2
+Anaheim,Biriyani Factory,630178,Sounderrajan Seetharaman ,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Paypal,Eastvale,2023-01-12,Thursday,January,2023,2
+Anaheim,Kizhi Parotta,630180,Kavitha Kalappatti ,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Burbank,2023-01-12,Thursday,January,2023,2
+Anaheim,Biriyani Factory,630181,Shekhar,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Arcadia,2023-01-12,Thursday,January,2023,2
+Anaheim,Aachi Chettinad,630263,Jude ,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.07,93.06,93.06,Square Apple Pay,Los Angeles,2023-01-13,Friday,January,2023,2
+Anaheim,Biriyani Factory,630307,Srinivasulu Alampally,Hyderabadi Egg Bucket Biriyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Apple Pay,Irvine,2023-01-14,Saturday,January,2023,2
+Anaheim,Biriyani Factory,630321,Jerome Martinez,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Los Angeles,2023-01-14,Saturday,January,2023,2
+Anaheim,Just Curry,630370,Bands,Telugu Veg Bundle,1,64.99,6.66,71.65,71.65,Square Credit/Debit Card,Burbank,2023-01-14,Saturday,January,2023,2
+Anaheim,Aachi Chettinad,630375,Faisal Mohamed,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card,Irvine,2023-01-14,Saturday,January,2023,2
+Anaheim,Just Curry,630414,Prasad Yalamanchi,Telugu Veg Bundle,1,64.99,6.17,71.16,71.16,Square Credit/Debit Card,Santa Clarita,2023-01-14,Saturday,January,2023,2
+Anaheim,Biriyani Factory,630433,Abhishek,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Apple Pay,Glendale,2023-01-14,Saturday,January,2023,2
+Anaheim,Biriyani Factory,630436,Karthik Mudaliar,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.0,65.99,65.99,Square Apple Pay,Torrance,2023-01-14,Saturday,January,2023,2
+Anaheim,Aachi Chettinad,630439,Madhu,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.5,93.49,93.49,Square Credit/Debit Card,Torrance,2023-01-14,Saturday,January,2023,2
+Anaheim,Biriyani Factory,630771,Smita Savant,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Palos Verdes Peninsula,2023-01-18,Wednesday,January,2023,3
+Anaheim,Biriyani Factory,630772,Valli sundaram,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Culver City,2023-01-18,Wednesday,January,2023,3
+Anaheim,Kizhi Parotta,630777,John Kothapalli,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.25,65.24,65.24,Square Credit/Debit Card,Redlands,2023-01-18,Wednesday,January,2023,3
+Anaheim,Kizhi Parotta,630778,Dilip Mavicheri,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Los Angeles,2023-01-18,Wednesday,January,2023,3
+Anaheim,Biriyani Factory,630783,Venkat Gopalan,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,6.0,65.99,65.99,Square Credit/Debit Card,Torrance,2023-01-18,Wednesday,January,2023,3
+Anaheim,Biriyani Factory,630798,Harpal khehra,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.25,65.24,65.24,Square Apple Pay,Redlands,2023-01-19,Thursday,January,2023,3
+Anaheim,Kizhi Parotta,630810,Lakshmanan,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,5.12,55.11,55.11,Square Apple Pay,Burbank,2023-01-19,Thursday,January,2023,3
+Anaheim,Kizhi Parotta,630812,Kavitha menon,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-01-19,Thursday,January,2023,3
+Anaheim,Biriyani Factory,630815,Sridhar Karre,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,6.12,76.11,76.11,Square Credit/Debit Card,Redlands,2023-01-19,Thursday,January,2023,3
+Anaheim,Biriyani Factory,630832,Kavya Kandula,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Ontario,2023-01-19,Thursday,January,2023,3
+Anaheim,Kizhi Parotta,630849,Pattabiraman Janardhanam,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Paypal,Eastvale,2023-01-19,Thursday,January,2023,3
+Anaheim,Biriyani Factory,630854,Shaivalya,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,5.25,65.24,65.24,Paypal,Redlands,2023-01-19,Thursday,January,2023,3
+Anaheim,Kizhi Parotta,630860,JAGANATHAN SAMRAJ,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Santa Clarita,2023-01-19,Thursday,January,2023,3
+Anaheim,Kizhi Parotta,630868,Selva Pandian,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Chino,2023-01-19,Thursday,January,2023,3
+Anaheim,Biriyani Factory,630872,Hari Chaguri,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card,Ontario,2023-01-19,Thursday,January,2023,3
+Anaheim,Biriyani Factory,630974,Sam Davidson,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-01-20,Friday,January,2023,3
+Anaheim,Biriyani Factory,630975,Akshay Dalvi,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Burbank,2023-01-20,Friday,January,2023,3
+Anaheim,Biriyani Factory,630975,Akshay Dalvi,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Burbank,2023-01-20,Friday,January,2023,3
+Anaheim,Biriyani Factory,630976,Akshay Dalvi,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Burbank,2023-01-20,Friday,January,2023,3
+Anaheim,Biriyani Factory,630981,Gautham Sreenivasan ,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-01-21,Saturday,January,2023,3
+Anaheim,Biriyani Factory,631171,Samit,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,6.65,76.64,76.64,Paypal,Los Angeles,2023-01-21,Saturday,January,2023,3
+Anaheim,Biriyani Factory,631193,Balaji,Tamil Style Veg Bucket Biriyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Paypal,Eastvale,2023-01-21,Saturday,January,2023,3
+Anaheim,Biriyani Factory,631217,Mahesh Janakiraman,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Paypal,Chino,2023-01-21,Saturday,January,2023,3
+Anaheim,Biriyani Factory,631266,Karan Agarwal,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Ontario,2023-01-21,Saturday,January,2023,3
+Anaheim,Biriyani Factory,631271,Ribi Varughese,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Santa Clarita,2023-01-21,Saturday,January,2023,3
+Anaheim,Biriyani Factory,631274,Chakradhar Chinni,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.35,64.34,64.34,Square Apple Pay,Simi Valley,2023-01-21,Saturday,January,2023,3
+Anaheim,Biriyani Factory,631275,Mukunthan Subramani,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,6.12,76.11,76.11,Square Credit/Debit Card,Redlands,2023-01-21,Saturday,January,2023,3
+Anaheim,Just Curry,631529,Kavitha,Tamil Non Veg Bundle,1,74.99,5.81,80.8,80.8,Square Apple Pay,Irvine,2023-01-25,Wednesday,January,2023,4
+Anaheim,Biriyani Factory,631529,Kavitha,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-01-25,Wednesday,January,2023,4
+Anaheim,Biriyani Factory,631533,Ashwin,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Santa Clarita,2023-01-25,Wednesday,January,2023,4
+Anaheim,Biriyani Factory,631544,Ashok Vempuli,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-01-25,Wednesday,January,2023,4
+Anaheim,Kizhi Parotta,631566,Sheik Shahabudeen,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-01-25,Wednesday,January,2023,4
+Anaheim,Biriyani Factory,631584,Subin Nair,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,6.65,76.64,76.64,Square Credit/Debit Card,Diamond Bar,2023-01-25,Wednesday,January,2023,4
+Anaheim,Just Curry,631597,Ravi Sripada,Telugu Veg Bundle,1,64.99,5.04,70.03,70.03,Square Credit/Debit Card, Anaheim,2023-01-26,Thursday,January,2023,4
+Anaheim,Biriyani Factory,631600,Raj,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Diamond Bar,2023-01-26,Thursday,January,2023,4
+Anaheim,Kizhi Parotta,631609,BIJIN BABY,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal, Anaheim,2023-01-26,Thursday,January,2023,4
+Anaheim,Biriyani Factory,631611,Kamatchi ,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),2,69.99,14.35,154.33,154.33,Square Credit/Debit Card,Arcadia,2023-01-26,Thursday,January,2023,4
+Anaheim,Kizhi Parotta,631613,Sreekanth,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Apple Pay, Anaheim,2023-01-26,Thursday,January,2023,4
+Anaheim,Kizhi Parotta,631616,Saleem,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-01-26,Thursday,January,2023,4
+Anaheim,Biriyani Factory,631629,Juby Jacob Mathew,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-01-26,Thursday,January,2023,4
+Anaheim,Biriyani Factory,631652,Kiru Veerappan,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-01-26,Thursday,January,2023,4
+Anaheim,Biriyani Factory,631662,Vinay Pakala,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.35,64.34,64.34,Square Apple Pay,Simi Valley,2023-01-26,Thursday,January,2023,4
+Anaheim,Biriyani Factory,631663,Sangeeth,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-01-26,Thursday,January,2023,4
+Anaheim,Kizhi Parotta,631664,ASHOK KUMAR RAJA DURAI RAJ,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal, Anaheim,2023-01-26,Thursday,January,2023,4
+Anaheim,Biriyani Factory,631680,Priya,Tamil Style Veg Bucket Biriyani (Serve 4 to 5 people),1,44.99,4.61,49.6,49.6,Paypal,Arcadia,2023-01-26,Thursday,January,2023,4
+Anaheim,Kizhi Parotta,631681,Vishnu Rajan,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-01-26,Thursday,January,2023,4
+Anaheim,Kizhi Parotta,631682,Anand Kumar Nair,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal,Eastvale,2023-01-26,Thursday,January,2023,4
+Anaheim,Just Curry,631784,Asif Shah,Tamil Veg Bundle,1,64.99,6.17,71.16,71.16,Square Credit/Debit Card,Los Angeles,2023-01-27,Friday,January,2023,4
+Anaheim,Biriyani Factory,631784,Asif Shah,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Los Angeles,2023-01-27,Friday,January,2023,4
+Anaheim,Biriyani Factory,631787,Sam Davidson,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-01-27,Friday,January,2023,4
+Anaheim,Biriyani Factory,631788,Sangram Reddy,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.35,64.34,64.34,Square Credit/Debit Card,Simi Valley,2023-01-27,Friday,January,2023,4
+Anaheim,Biriyani Factory,631790,Manas,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Palos Verdes Peninsula,2023-01-28,Saturday,January,2023,4
+Anaheim,Biriyani Factory,631805,Prem Vargees ,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Chino,2023-01-28,Saturday,January,2023,4
+Anaheim,Biriyani Factory,631817,Hariharasudan Ramachandran,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-01-28,Saturday,January,2023,4
+Anaheim,Just Curry,631891,Sima,Tamil Veg Bundle,1,64.99,6.17,71.16,71.16,Square Credit/Debit Card,Los Angeles,2023-01-28,Saturday,January,2023,4
+Anaheim,Biriyani Factory,631891,Sima,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,6.65,76.64,76.64,Square Credit/Debit Card,Los Angeles,2023-01-28,Saturday,January,2023,4
+Anaheim,Biriyani Factory,631910,Tony,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Ontario,2023-01-28,Saturday,January,2023,4
+Anaheim,Biriyani Factory,631916,Srinivasulu Alampally,Hyderabadi Egg Bucket Biriyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Apple Pay,Irvine,2023-01-28,Saturday,January,2023,4
+Anaheim,Biriyani Factory,631935,Mukunthan subramani,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.25,65.24,65.24,Square Credit/Debit Card,Redlands,2023-01-28,Saturday,January,2023,4
+Anaheim,Biriyani Factory,632196,Dinah Zafar,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Paypal,Irvine,2023-02-01,Wednesday,February,2023,5
+Anaheim,Biriyani Factory,632205,Ashok,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card,Irvine,2023-02-01,Wednesday,February,2023,5
+Anaheim,Kizhi Parotta,632213,Gangadharan,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Square Apple Pay,Eastvale,2023-02-01,Wednesday,February,2023,5
+Anaheim,Kizhi Parotta,632242,Himatha,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-01,Wednesday,February,2023,5
+Anaheim,Kizhi Parotta,632251,Sheik Shahabudeen,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-02,Thursday,February,2023,5
+Anaheim,Biriyani Factory,632264,Rajarshi Chatterjee,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Chino,2023-02-02,Thursday,February,2023,5
+Anaheim,Biriyani Factory,632308,Shekhar Rane,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-02,Thursday,February,2023,5
+Anaheim,Jay Krishna,632312,Mohan Balagopalan,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.26,59.25,59.25,Square Credit/Debit Card,Ontario,2023-02-02,Thursday,February,2023,5
+Anaheim,Kizhi Parotta,632314,Nishad Kunduvaravalappil,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.0,65.99,65.99,Square Apple Pay,Torrance,2023-02-02,Thursday,February,2023,5
+Anaheim,Kizhi Parotta,632321,K,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,5.12,55.11,55.11,Square Credit/Debit Card,Burbank,2023-02-02,Thursday,February,2023,5
+Anaheim,Biriyani Factory,632332,BIJIN BABY,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal, Anaheim,2023-02-03,Friday,February,2023,5
+Anaheim,Biriyani Factory,632423,Raj Yadamuri,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-03,Friday,February,2023,5
+Anaheim,Biriyani Factory,632430,Sam Davidson,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-02-03,Friday,February,2023,5
+Anaheim,Aachi Chettinad,632451,Hari,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.16,91.15,91.15,Square Apple Pay,Simi Valley,2023-02-04,Saturday,February,2023,5
+Anaheim,Aachi Chettinad,632467,Saravana Rasan,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.07,93.06,93.06,Square Credit/Debit Card,Santa Clarita,2023-02-04,Saturday,February,2023,5
+Anaheim,Biriyani Factory,632482,Kalyan,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Glendale,2023-02-04,Saturday,February,2023,5
+Anaheim,Aachi Chettinad,632492,Christina G,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Paypal,Irvine,2023-02-04,Saturday,February,2023,5
+Anaheim,Jay Krishna,632512,Karthik,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,5.22,60.21,60.21,Square Credit/Debit Card,Palos Verdes Peninsula,2023-02-04,Saturday,February,2023,5
+Anaheim,Biriyani Factory,632522,Pavan,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),4,59.99,18.6,258.56,258.56,Square Credit/Debit Card,Eastvale,2023-02-04,Saturday,February,2023,5
+Anaheim,Biriyani Factory,632522,Pavan,Hyderabadi Egg Bucket Biriyani (Serve 4 to 5 people),2,44.99,6.97,96.95,96.95,Square Credit/Debit Card,Eastvale,2023-02-04,Saturday,February,2023,5
+Anaheim,Biriyani Factory,632551,Adhavan Christopher ,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal, Anaheim,2023-02-04,Saturday,February,2023,5
+Anaheim,Biriyani Factory,632874,Cjanga,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-02-08,Wednesday,February,2023,6
+Anaheim,Kizhi Parotta,632878,Priyadharshini,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-08,Wednesday,February,2023,6
+Anaheim,Biriyani Factory,632881,Jagan,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-02-08,Wednesday,February,2023,6
+Anaheim,Kizhi Parotta,632900,Iqbal Mohamed,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Square Apple Pay, Anaheim,2023-02-08,Wednesday,February,2023,6
+Anaheim,Biriyani Factory,632903,Prajwal Karanayyana Vasantha,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Paypal,Irvine,2023-02-08,Wednesday,February,2023,6
+Anaheim,Biriyani Factory,632915,ladkasi,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),2,59.99,9.3,129.28,129.28,Square Credit/Debit Card,Irvine,2023-02-08,Wednesday,February,2023,6
+Anaheim,Kizhi Parotta,632917,Manoj,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Santa Clarita,2023-02-08,Wednesday,February,2023,6
+Anaheim,Biriyani Factory,633015,Rajesh Ramachandran,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Culver City,2023-02-09,Thursday,February,2023,6
+Anaheim,Kizhi Parotta,633015,Rajesh Ramachandran,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,5.12,55.11,55.11,Square Credit/Debit Card,Culver City,2023-02-09,Thursday,February,2023,6
+Anaheim,Kizhi Parotta,633032,Rajan Panneer,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Arcadia,2023-02-09,Thursday,February,2023,6
+Anaheim,Biriyani Factory,633052,Rajakumar Selvaraju,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Eastvale,2023-02-09,Thursday,February,2023,6
+Anaheim,Jay Krishna,633055,Lakshmanan,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,5.64,60.63,60.63,Square Credit/Debit Card,Burbank,2023-02-09,Thursday,February,2023,6
+Anaheim,Biriyani Factory,633071,Ravi,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.95,64.94,64.94,Square Credit/Debit Card,Bakersfield,2023-02-09,Thursday,February,2023,6
+Anaheim,Biriyani Factory,633401,Harbir Gill,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.95,64.94,64.94,Paypal,Bakersfield,2023-02-11,Saturday,February,2023,6
+Anaheim,Jay Krishna,633639,Natraj,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,5.22,60.21,60.21,Square Credit/Debit Card,Los Angeles,2023-02-15,Wednesday,February,2023,7
+Anaheim,Kizhi Parotta,633648,Perachi,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Los Angeles,2023-02-15,Wednesday,February,2023,7
+Anaheim,Kizhi Parotta,633657,Mahesh Murugaiyan,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,5.12,55.11,55.11,Square Credit/Debit Card,Burbank,2023-02-15,Wednesday,February,2023,7
+Anaheim,Just Curry,633657,Mahesh Murugaiyan,Tamil Non Veg Bundle,1,74.99,7.69,82.68,82.68,Square Credit/Debit Card,Burbank,2023-02-15,Wednesday,February,2023,7
+Anaheim,Kizhi Parotta,633673,Prajwal Karanayyana Vasantha,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-02-15,Wednesday,February,2023,7
+Anaheim,Just Curry,633697,Himatha,Telugu Veg Bundle,1,64.99,5.04,70.03,70.03,Square Credit/Debit Card,Irvine,2023-02-15,Wednesday,February,2023,7
+Anaheim,Kizhi Parotta,633727,Ashok,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-16,Thursday,February,2023,7
+Anaheim,Biriyani Factory,633736,vijay Krishnan,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.0,65.99,65.99,Square Credit/Debit Card,Torrance,2023-02-16,Thursday,February,2023,7
+Anaheim,Biriyani Factory,633750,Sriram Thangaraj,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,7.17,77.16,77.16,Square Apple Pay,Burbank,2023-02-16,Thursday,February,2023,7
+Anaheim,Kizhi Parotta,633754,Arasavel Ramaraj,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-02-16,Thursday,February,2023,7
+Anaheim,Biriyani Factory,633756,Ranjeeta,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.35,64.34,64.34,Paypal,Simi Valley,2023-02-16,Thursday,February,2023,7
+Anaheim,Kizhi Parotta,633777,Deenadayalan Kanniappan,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Los Angeles,2023-02-16,Thursday,February,2023,7
+Anaheim,Biriyani Factory,633779,Suresh Vincent,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,6.65,76.64,76.64,Square Credit/Debit Card,Los Angeles,2023-02-16,Thursday,February,2023,7
+Anaheim,Kizhi Parotta,633799,Mahesh Janakiraman,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Square Apple Pay,Eastvale,2023-02-16,Thursday,February,2023,7
+Anaheim,Biriyani Factory,633890,Kunal Kulkarni,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Santa Clarita,2023-02-17,Friday,February,2023,7
+Anaheim,Biriyani Factory,633961,P R Chandrasekaran,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.95,64.94,64.94,Square Credit/Debit Card,Bakersfield,2023-02-17,Friday,February,2023,7
+Anaheim,Biriyani Factory,633962,Sam Davidson,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-02-17,Friday,February,2023,7
+Anaheim,Aachi Chettinad,633994,Mukunthan Subramani,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,7.44,92.43,92.43,Square Credit/Debit Card,Redlands,2023-02-17,Friday,February,2023,7
+Anaheim,Biriyani Factory,633996,Raj Yadamuri,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-18,Saturday,February,2023,7
+Anaheim,Aachi Chettinad,634016,Valli sundaram,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card,Irvine,2023-02-18,Saturday,February,2023,7
+Anaheim,Aachi Chettinad,634019,Martin Mariadoss,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.07,93.06,93.06,Square Credit/Debit Card,Santa Clarita,2023-02-18,Saturday,February,2023,7
+Anaheim,Jay Krishna,634020,Raj Kalidindi,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.26,59.25,59.25,Square Credit/Debit Card,Irvine,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634030,Ravikumar Srinivasan,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Diamond Bar,2023-02-18,Saturday,February,2023,7
+Anaheim,Jay Krishna,634035,Neha,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.26,59.25,59.25,Square Credit/Debit Card, Anaheim,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634037,Renu K,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,7.17,77.16,77.16,Paypal,Glendale,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634042,Chaitanya v,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.95,64.94,64.94,Paypal,Bakersfield,2023-02-18,Saturday,February,2023,7
+Anaheim,Aachi Chettinad,634047,Priya Devanathan,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.5,93.49,93.49,Square Credit/Debit Card,Torrance,2023-02-18,Saturday,February,2023,7
+Anaheim,Just Curry,634057,Naresh jayaseelan ,Tamil Veg Bundle,1,64.99,5.04,70.03,70.03,Square Credit/Debit Card, Anaheim,2023-02-18,Saturday,February,2023,7
+Anaheim,Jay Krishna,634057,Naresh jayaseelan ,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.26,59.25,59.25,Square Credit/Debit Card, Anaheim,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634057,Naresh jayaseelan ,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634062,Sonia ,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Apple Pay,Irvine,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634077,Anand,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Brea,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634081,Mike Nystrom,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-02-18,Saturday,February,2023,7
+Anaheim,Aachi Chettinad,634106,Murugananth,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Paypal,Irvine,2023-02-18,Saturday,February,2023,7
+Anaheim,Just Curry,634116,Randy Ananda,Tamil Non Veg Bundle,1,74.99,5.81,80.8,80.8,Square Apple Pay, Anaheim,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634117,Ram,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634117,Ram,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-18,Saturday,February,2023,7
+Anaheim,Just Curry,634126,ANANTHARAMAN THASARATHAN,Tamil Veg Bundle,1,64.99,6.17,71.16,71.16,Square Credit/Debit Card,Santa Clarita,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634141,Venkat Pakalapati,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Eastvale,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634143,Senthil Chandran,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.35,64.34,64.34,Square Apple Pay,Simi Valley,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634153,PRAVEEN YERRAVALI,Hyderabadi Veg Bucket Briyani (Serve 4 to 5 people),1,44.99,3.71,48.7,48.7,Paypal,Bakersfield,2023-02-18,Saturday,February,2023,7
+Anaheim,Biriyani Factory,634156,Pramod Chaudhary,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-02-18,Saturday,February,2023,7
+Anaheim,Kizhi Parotta,634476,Fazil,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Pasadena,2023-02-21,Tuesday,February,2023,8
+Anaheim,Kizhi Parotta,634490,Sam Davidson,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-02-22,Wednesday,February,2023,8
+Anaheim,Kizhi Parotta,634505,arunthiruthiyil,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Montebello,2023-02-22,Wednesday,February,2023,8
+Anaheim,Kizhi Parotta,634526,Raj D,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Square Apple Pay,Irvine,2023-02-22,Wednesday,February,2023,8
+Anaheim,Biriyani Factory,634526,Raj D,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-02-22,Wednesday,February,2023,8
+Anaheim,Kizhi Parotta,634572,Latha,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Square Credit/Debit Card,Irvine,2023-02-22,Wednesday,February,2023,8
+Anaheim,Just Curry,634580,Yogesh Mallesh,Telugu Veg Bundle,1,64.99,5.04,70.03,70.03,Square Apple Pay,Eastvale,2023-02-22,Wednesday,February,2023,8
+Anaheim,Biriyani Factory,634594,KV,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-23,Thursday,February,2023,8
+Anaheim,Biriyani Factory,634599,Kalyan,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Burbank,2023-02-23,Thursday,February,2023,8
+Anaheim,Biriyani Factory,634608,maheshm,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,7.18,77.17,77.17,Square Credit/Debit Card,Burbank,2023-02-23,Thursday,February,2023,8
+Anaheim,Kizhi Parotta,634608,maheshm,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,5.12,55.11,55.11,Square Credit/Debit Card,Burbank,2023-02-23,Thursday,February,2023,8
+Anaheim,Jay Krishna,634620,Vin Sam,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.81,59.8,59.8,Square Credit/Debit Card,Redlands,2023-02-23,Thursday,February,2023,8
+Anaheim,Kizhi Parotta,634631,Sabarina Thenmalaiandi,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,5.12,55.11,55.11,Square Credit/Debit Card,Arcadia,2023-02-23,Thursday,February,2023,8
+Anaheim,Biriyani Factory,634659,AMITABH BISWAL,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,6.65,76.64,76.64,Paypal,Santa Clarita,2023-02-23,Thursday,February,2023,8
+Anaheim,Biriyani Factory,634662,Ashok Vempuli,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-02-23,Thursday,February,2023,8
+Anaheim,Biriyani Factory,634679,Vijayalakshmi,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Glendale,2023-02-23,Thursday,February,2023,8
+Anaheim,Biriyani Factory,634680,Revathy alwar,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Los Angeles,2023-02-23,Thursday,February,2023,8
+Anaheim,Biriyani Factory,634780,Ramesh Krish ,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-25,Saturday,February,2023,8
+Anaheim,Aachi Chettinad,634783,Sabarigirivasan,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card,Irvine,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,634807,Anitha Muthuswamy,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.35,64.34,64.34,Square Credit/Debit Card,Simi Valley,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,634809,Manoj Swami ,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,6.12,76.11,76.11,Paypal,Redlands,2023-02-25,Saturday,February,2023,8
+Anaheim,Aachi Chettinad,634834,Sriram,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.71,93.7,93.7,Square Apple Pay,Burbank,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,634850,Gowri Tattari,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card,Chino,2023-02-25,Saturday,February,2023,8
+Anaheim,Just Curry,634853,Gowri T,Telugu Non Veg Bundle,1,74.99,5.81,80.8,80.8,Square Credit/Debit Card,Eastvale,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,634854,Hariharasudan Ramachandran,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card, Anaheim,2023-02-25,Saturday,February,2023,8
+Anaheim,Aachi Chettinad,634881,Anto,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Paypal,Irvine,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,634882,Shivnath Ganesan ,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,634882,Shivnath Ganesan ,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,634884,Karthik Mudaliar,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,7.0,76.99,76.99,Square Apple Pay,Torrance,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,634884,Karthik Mudaliar,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.0,65.99,65.99,Square Apple Pay,Torrance,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,634894,Venkat Pakalapati,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Eastvale,2023-02-25,Saturday,February,2023,8
+Anaheim,Aachi Chettinad,634922,Vidya ,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Apple Pay, Anaheim,2023-02-25,Saturday,February,2023,8
+Anaheim,Aachi Chettinad,634928,Selva Bala,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.16,91.15,91.15,Square Apple Pay,Simi Valley,2023-02-25,Saturday,February,2023,8
+Anaheim,Aachi Chettinad,634929,Raja Subramani,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card,Ontario,2023-02-25,Saturday,February,2023,8
+Anaheim,Biriyani Factory,635187,Vrushali Joshi,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),2,59.99,9.3,129.28,129.28,Square Apple Pay,Irvine,2023-02-28,Tuesday,February,2023,9
+Anaheim,Biriyani Factory,635187,Vrushali Joshi,Hyderabadi Veg Bucket Briyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Apple Pay,Irvine,2023-02-28,Tuesday,February,2023,9
+Anaheim,Kizhi Parotta,635191,Raghuraman Ponniah,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Santa Clarita,2023-02-28,Tuesday,February,2023,9
+Anaheim,Just Curry,635197,Sridhar Karre,Telugu Non Veg Bundle,1,74.99,6.56,81.55,81.55,Square Credit/Debit Card,Redlands,2023-03-01,Wednesday,March,2023,9
+Anaheim,Just Curry,635212,Neha,Telugu Veg Bundle,1,64.99,5.04,70.03,70.03,Square Credit/Debit Card, Anaheim,2023-03-01,Wednesday,March,2023,9
+Anaheim,Kizhi Parotta,635213,Sam Davidson,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-01,Wednesday,March,2023,9
+Anaheim,Jay Krishna,635233,Shrreejith Menon,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,5.64,60.63,60.63,Square Credit/Debit Card,Culver City,2023-03-01,Wednesday,March,2023,9
+Anaheim,Jay Krishna,635235,Amarnath Tolety ,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.26,59.25,59.25,Paypal,Irvine,2023-03-01,Wednesday,March,2023,9
+Anaheim,Biriyani Factory,635239,Cjanga,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-03-01,Wednesday,March,2023,9
+Anaheim,Biriyani Factory,635266,Lithun,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Montebello,2023-03-01,Wednesday,March,2023,9
+Anaheim,Kizhi Parotta,635278,Reshmi Nair,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-03-01,Wednesday,March,2023,9
+Anaheim,Biriyani Factory,635279,Srinivasa penumatsa,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.0,65.99,65.99,Square Credit/Debit Card,Torrance,2023-03-01,Wednesday,March,2023,9
+Anaheim,Kizhi Parotta,635344,Mothilal M Rajesh,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Chino,2023-03-02,Thursday,March,2023,9
+Anaheim,Kizhi Parotta,635353,Ram Raju,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-02,Thursday,March,2023,9
+Anaheim,Kizhi Parotta,635383,Suresh Appadurai,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Chino,2023-03-02,Thursday,March,2023,9
+Anaheim,Biriyani Factory,635394,Sudheendra Poluru,Hyderabadi Veg Bucket Briyani (Serve 4 to 5 people),1,44.99,3.26,48.25,48.25,Paypal,Simi Valley,2023-03-02,Thursday,March,2023,9
+Anaheim,Jay Krishna,635491,Raj Kalidindi,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.26,59.25,59.25,Square Credit/Debit Card,Irvine,2023-03-03,Friday,March,2023,9
+Anaheim,Aachi Chettinad,635509,Premnath Kumar,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card, Anaheim,2023-03-04,Saturday,March,2023,9
+Anaheim,Aachi Chettinad,635535,Padmanabhan Srinivasan,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card, Anaheim,2023-03-04,Saturday,March,2023,9
+Anaheim,Biriyani Factory,635538,Deepthi Moparthi,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Paypal,Arcadia,2023-03-04,Saturday,March,2023,9
+Anaheim,Aachi Chettinad,635582,SIVAKUMAR GOVINDARAJ ,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card, Anaheim,2023-03-04,Saturday,March,2023,9
+Anaheim,Biriyani Factory,635623,Rk,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Paypal,Ontario,2023-03-04,Saturday,March,2023,9
+Anaheim,Biriyani Factory,635635,RAMA CHINTAPALLI,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.25,65.24,65.24,Paypal,Redlands,2023-03-04,Saturday,March,2023,9
+Anaheim,Just Curry,635637,Malik Rafi ,Tamil Veg Bundle,1,64.99,5.04,70.03,70.03,Square Credit/Debit Card,Brea,2023-03-04,Saturday,March,2023,9
+Anaheim,Biriyani Factory,635637,Malik Rafi ,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Brea,2023-03-04,Saturday,March,2023,9
+Anaheim,Biriyani Factory,635689,Sriram Grandhi,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-03-04,Saturday,March,2023,9
+Anaheim,Biriyani Factory,635692,pradeep natarajan,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,6.0,65.99,65.99,Paypal,Torrance,2023-03-04,Saturday,March,2023,9
+Anaheim,Biriyani Factory,635693,Kandha,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Paypal,Los Angeles,2023-03-04,Saturday,March,2023,9
+Anaheim,Kizhi Parotta,635990,Sam Davidson,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-08,Wednesday,March,2023,10
+Anaheim,Kizhi Parotta,636005,Mohiadeen Ameerkhan,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.15,66.14,66.14,Paypal,Pasadena,2023-03-08,Wednesday,March,2023,10
+Anaheim,Biriyani Factory,636017,Shekhar  A Rane,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-03-08,Wednesday,March,2023,10
+Anaheim,Biriyani Factory,636069,Sandesh Kutty,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.0,65.99,65.99,Square Credit/Debit Card,Torrance,2023-03-09,Thursday,March,2023,10
+Anaheim,Biriyani Factory,636085,Palani,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Paypal,Santa Clarita,2023-03-09,Thursday,March,2023,10
+Anaheim,Kizhi Parotta,636085,Palani,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,4.75,54.74,54.74,Paypal,Santa Clarita,2023-03-09,Thursday,March,2023,10
+Anaheim,Kizhi Parotta,636089,BIJIN BABY,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Paypal, Anaheim,2023-03-09,Thursday,March,2023,10
+Anaheim,Kizhi Parotta,636102,Davidbabuvictor,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.35,64.34,64.34,Square Credit/Debit Card,Simi Valley,2023-03-09,Thursday,March,2023,10
+Anaheim,Biriyani Factory,636107,Venkata K,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-03-09,Thursday,March,2023,10
+Anaheim,Biriyani Factory,636107,Venkata K,Hyderabadi Veg Bucket Briyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Apple Pay,Irvine,2023-03-09,Thursday,March,2023,10
+Anaheim,Kizhi Parotta,636127,JAGANATHAN SAMRAJ,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Santa Clarita,2023-03-09,Thursday,March,2023,10
+Anaheim,Kizhi Parotta,636143,Arun,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Square Credit/Debit Card,Irvine,2023-03-09,Thursday,March,2023,10
+Anaheim,Kizhi Parotta,636149,aarthychups,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-03-09,Thursday,March,2023,10
+Anaheim,Kizhi Parotta,636152,Fazil,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.15,66.14,66.14,Square Credit/Debit Card,Pasadena,2023-03-09,Thursday,March,2023,10
+Anaheim,Kizhi Parotta,636172,Deenadayalan Kanniappan,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Los Angeles,2023-03-09,Thursday,March,2023,10
+Anaheim,Just Curry,636173,Amar T,Tamil Veg Bundle,1,64.99,5.04,70.03,70.03,Paypal,Irvine,2023-03-09,Thursday,March,2023,10
+Anaheim,Kizhi Parotta,636174,Vivekanandan,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal,Brea,2023-03-09,Thursday,March,2023,10
+Anaheim,Biriyani Factory,635997,P R Chandrasekaran,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.95,64.94,64.94,Paypal,Bakersfield,2023-03-08,Wednesday,March,2023,10
+Anaheim,Biriyani Factory,636221,Neha,Hyderabadi Veg Bucket Briyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Credit/Debit Card, Anaheim,2023-03-10,Friday,March,2023,10
+Anaheim,Biriyani Factory,636292,Vaishnavi,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),3,59.99,17.1,197.07,197.07,Paypal,Los Angeles,2023-03-10,Friday,March,2023,10
+Anaheim,Biriyani Factory,636292,Vaishnavi,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),2,59.99,11.4,131.38,131.38,Paypal,Los Angeles,2023-03-10,Friday,March,2023,10
+Anaheim,Biriyani Factory,636293,jaydeep,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Ontario,2023-03-10,Friday,March,2023,10
+Anaheim,Just Curry,636333,Sheik Shahabudeen,Telugu Non Veg Bundle,1,74.99,5.81,80.8,80.8,Square Credit/Debit Card,Irvine,2023-03-11,Saturday,March,2023,10
+Anaheim,Jay Krishna,636333,Sheik Shahabudeen,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.26,59.25,59.25,Square Credit/Debit Card,Irvine,2023-03-11,Saturday,March,2023,10
+Anaheim,Biriyani Factory,636376,Deepthi Moparthi,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,7.17,77.16,77.16,Square Apple Pay,Arcadia,2023-03-11,Saturday,March,2023,10
+Anaheim,Jay Krishna,636385,Muruga Rengarajan,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.54,59.53,59.53,Square Credit/Debit Card,Bakersfield,2023-03-11,Saturday,March,2023,10
+Anaheim,Aachi Chettinad,636402,Nandakumar Sukumar,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Credit/Debit Card, Anaheim,2023-03-11,Saturday,March,2023,10
+Anaheim,Just Curry,636415,Sriram Grandhi,Tamil Non Veg Bundle,1,74.99,5.81,80.8,80.8,Square Credit/Debit Card,Irvine,2023-03-11,Saturday,March,2023,10
+Anaheim,Kizhi Parotta,636674,Sam Davidson,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-14,Tuesday,March,2023,11
+Anaheim,Biriyani Factory,636729,Raj Devan ,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Apple Pay,Irvine,2023-03-15,Wednesday,March,2023,11
+Anaheim,Biriyani Factory,636732,Ramya Jena,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-03-15,Wednesday,March,2023,11
+Anaheim,Kizhi Parotta,636773,Sandesh Kutty,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.0,65.99,65.99,Square Credit/Debit Card,Torrance,2023-03-16,Thursday,March,2023,11
+Anaheim,Kizhi Parotta,636776,Anitha,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-03-16,Thursday,March,2023,11
+Anaheim,Just Curry,636781,Mohan Balagopalan,Tamil Veg Bundle,1,64.99,5.04,70.03,70.03,Square Credit/Debit Card,Ontario,2023-03-16,Thursday,March,2023,11
+Anaheim,Biriyani Factory,636823,Ashwin Nagavelli,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Santa Clarita,2023-03-16,Thursday,March,2023,11
+Anaheim,Biriyani Factory,636832,Dinah Zafar,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Apple Pay,Irvine,2023-03-16,Thursday,March,2023,11
+Anaheim,Kizhi Parotta,636835,Murugananth,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-16,Thursday,March,2023,11
+Anaheim,Just Curry,636843,Palani,Tamil Non Veg Bundle,1,74.99,7.12,82.11,82.11,Square Apple Pay,Santa Clarita,2023-03-16,Thursday,March,2023,11
+Anaheim,Just Curry,636844,Himatha,Telugu Veg Bundle,1,64.99,5.04,70.03,70.03,Square Credit/Debit Card,Irvine,2023-03-16,Thursday,March,2023,11
+Anaheim,Kizhi Parotta,636845,Mohiadeen Ameerkhan,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,6.15,66.14,66.14,Square Apple Pay,Pasadena,2023-03-16,Thursday,March,2023,11
+Anaheim,Biriyani Factory,636846,Anand,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Paypal,Irvine,2023-03-16,Thursday,March,2023,11
+Anaheim,Biriyani Factory,636938,Juby Jacob Mathew,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-03-17,Friday,March,2023,11
+Anaheim,Aachi Chettinad,636948,Mohammed Imthiyaz,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Square Apple Pay,Chino,2023-03-17,Friday,March,2023,11
+Anaheim,Jay Krishna,636977,Manish Joshi,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,5.22,60.21,60.21,Square Credit/Debit Card,Los Angeles,2023-03-17,Friday,March,2023,11
+Anaheim,Biriyani Factory,637012,Preeya Ayyappan,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Eastvale,2023-03-18,Saturday,March,2023,11
+Anaheim,Biriyani Factory,637066,Rakesh Palle ,Hyderabadi Veg Bucket Briyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Credit/Debit Card,Eastvale,2023-03-18,Saturday,March,2023,11
+Anaheim,Aachi Chettinad,637068,Karthick Palanisamy,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,7.01,92.0,92.0,Square Credit/Debit Card,Bakersfield,2023-03-18,Saturday,March,2023,11
+Anaheim,Biriyani Factory,637128,Prajwal Karanayyana Vasantha,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-03-18,Saturday,March,2023,11
+Anaheim,Biriyani Factory,637138,Selva Pandian,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card,Chino,2023-03-18,Saturday,March,2023,11
+Anaheim,Biriyani Factory,637139,Sridhar Karre,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,6.12,76.11,76.11,Square Credit/Debit Card,Redlands,2023-03-18,Saturday,March,2023,11
+Anaheim,Kizhi Parotta,637425,Sam Davidson,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-22,Wednesday,March,2023,12
+Anaheim,Biriyani Factory,637440,Ravi,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.35,64.34,64.34,Paypal,Simi Valley,2023-03-22,Wednesday,March,2023,12
+Anaheim,Biriyani Factory,637494,Maragatha Lakshmi Umapathy ,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-03-23,Thursday,March,2023,12
+Anaheim,Kizhi Parotta,637501,Shikha Kaushal,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-03-23,Thursday,March,2023,12
+Anaheim,Just Curry,637521,maheshm,Telugu Non Veg Bundle,1,74.99,7.69,82.68,82.68,Square Credit/Debit Card,Burbank,2023-03-23,Thursday,March,2023,12
+Anaheim,Kizhi Parotta,637523,Ravee Raveendra ,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-03-23,Thursday,March,2023,12
+Anaheim,Just Curry,637554,Palani,Tamil Non Veg Bundle,1,74.99,7.12,82.11,82.11,Paypal,Santa Clarita,2023-03-23,Thursday,March,2023,12
+Anaheim,Biriyani Factory,637595,Arun Jampani,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-23,Thursday,March,2023,12
+Anaheim,Biriyani Factory,637598,Mothilal M Rajesh,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card,Eastvale,2023-03-23,Thursday,March,2023,12
+Anaheim,Kizhi Parotta,637600,Sree,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Paypal,Irvine,2023-03-23,Thursday,March,2023,12
+Anaheim,Biriyani Factory,637593,P R Chandrasekaran,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.95,64.94,64.94,Paypal,Bakersfield,2023-03-23,Thursday,March,2023,12
+Anaheim,Biriyani Factory,637682,Shivnath Ganesan,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-03-24,Friday,March,2023,12
+Anaheim,Jay Krishna,637711,Aravind Patil,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,5.22,60.21,60.21,Square Credit/Debit Card,Santa Clarita,2023-03-24,Friday,March,2023,12
+Anaheim,Biriyani Factory,637712,Kannappan Meyyappan,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.95,64.94,64.94,Square Credit/Debit Card,Bakersfield,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637729,Abhijeet Kumar,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Eastvale,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637736,Srikrishna Illendula ,Hyderabadi Egg Bucket Biriyani (Serve 4 to 5 people),1,44.99,4.27,49.26,49.26,Square Credit/Debit Card,Santa Clarita,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637748,Adeep Kota,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Brea,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637748,Adeep Kota,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Brea,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637792,Dinesh,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Diamond Bar,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637832,Lavanya Chandra,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637833,Madhu,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.15,66.14,66.14,Square Apple Pay,Burbank,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637838,Srikrishna Illendula ,Hyderabadi Veg Bucket Briyani (Serve 4 to 5 people),1,44.99,4.27,49.26,49.26,Square Credit/Debit Card,Santa Clarita,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637895,Gurunath,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,6.0,65.99,65.99,Square Credit/Debit Card,Torrance,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637901,Nalls,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637902,Srinivas Yarlagadda,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-25,Saturday,March,2023,12
+Anaheim,Biriyani Factory,637906,Vishnu Rajan,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-03-25,Saturday,March,2023,12
+Anaheim,Jay Krishna,638176,Raj Kalidindi,Butta Bhojanam Basket Thali (Serve 3 to 4 people),2,54.99,8.52,118.5,118.5,Square Credit/Debit Card,Irvine,2023-03-29,Wednesday,March,2023,13
+Anaheim,Kizhi Parotta,638180,Sam Davidson,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-29,Wednesday,March,2023,13
+Anaheim,Jay Krishna,638205,Natraj,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,5.22,60.21,60.21,Square Credit/Debit Card,Los Angeles,2023-03-29,Wednesday,March,2023,13
+Anaheim,Kizhi Parotta,638216,Juby Jacob Mathew,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal, Anaheim,2023-03-29,Wednesday,March,2023,13
+Anaheim,Biriyani Factory,638255,Hari Sasidharan Pillai,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,7.17,77.16,77.16,Square Credit/Debit Card,Montebello,2023-03-30,Thursday,March,2023,13
+Anaheim,Just Curry,638260,Palani,Tamil Non Veg Bundle,1,74.99,7.12,82.11,82.11,Paypal,Santa Clarita,2023-03-30,Thursday,March,2023,13
+Anaheim,Biriyani Factory,638261,Sangeetha Shyam,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-03-30,Thursday,March,2023,13
+Anaheim,Biriyani Factory,638331,Jaganath,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,7.17,77.16,77.16,Square Credit/Debit Card,Montebello,2023-03-30,Thursday,March,2023,13
+Anaheim,Biriyani Factory,638332,Pramod,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Ontario,2023-03-30,Thursday,March,2023,13
+Anaheim,Kizhi Parotta,638333,SARAVANAN SOMU,  Kizhi Parotta Veg Bundle (serves 4 people),1,49.99,3.87,53.86,53.86,Square Credit/Debit Card,Eastvale,2023-03-30,Thursday,March,2023,13
+Anaheim,Kizhi Parotta,638333,SARAVANAN SOMU,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-03-30,Thursday,March,2023,13
+Anaheim,Just Curry,638400,Kannappan Meyyappan,Tamil Non Veg Bundle,1,74.99,6.19,81.18,81.18,Square Credit/Debit Card,Bakersfield,2023-03-31,Friday,March,2023,13
+Anaheim,Biriyani Factory,638404,Sanjay,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-03-31,Friday,March,2023,13
+Anaheim,Aachi Chettinad,638443,Madhu,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.5,93.49,93.49,Square Credit/Debit Card,Torrance,2023-03-31,Friday,March,2023,13
+Anaheim,Jay Krishna,638445,Mohan Balagopalan,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.26,59.25,59.25,Paypal,Ontario,2023-04-01,Saturday,April,2023,13
+Anaheim,Aachi Chettinad,638476,Raj Nachiappan,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.5,93.49,93.49,Paypal,Torrance,2023-04-01,Saturday,April,2023,13
+Anaheim,Biriyani Factory,638517,Palanisamy ramasamy,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Apple Pay,Santa Clarita,2023-04-01,Saturday,April,2023,13
+Anaheim,Biriyani Factory,638548,Arun Rajarajan,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Ontario,2023-04-01,Saturday,April,2023,13
+Anaheim,Biriyani Factory,638572,Shivnath Ganesan,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-04-01,Saturday,April,2023,13
+Anaheim,Biriyani Factory,638574,Raja Subramani,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card,Ontario,2023-04-01,Saturday,April,2023,13
+Anaheim,Kizhi Parotta,638795,Sam Davidson,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Eastvale,2023-04-05,Wednesday,April,2023,14
+Anaheim,Biriyani Factory,638869,Raj,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-04-06,Thursday,April,2023,14
+Anaheim,Kizhi Parotta,638877,Krishna Kumar,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Paypal,Irvine,2023-04-06,Thursday,April,2023,14
+Anaheim,Just Curry,638881,Suganya,Tamil Veg Bundle,1,64.99,5.69,70.68,70.68,Square Credit/Debit Card,Redlands,2023-04-06,Thursday,April,2023,14
+Anaheim,Biriyani Factory,638889,Santosh gowda,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card,Irvine,2023-04-06,Thursday,April,2023,14
+Anaheim,Ramzan Special,638913,Sridhar Karre,Ramzan Special Bundle (Serves 4 to 5 people),1,79.99,7.0,86.99,86.99,Square Credit/Debit Card,Redlands,2023-04-06,Thursday,April,2023,14
+Anaheim,Ramzan Special,638916,Gautham Dhayalan,Ramzan Special Bundle (Serves 4 to 5 people),1,79.99,6.2,86.19,86.19,"Square Apple Pay, Square Credit/Debit Card",Irvine,2023-04-06,Thursday,April,2023,14
+Anaheim,Ramzan Special,638933,Gowri Tattari,Ramzan Special Bundle (Serves 4 to 5 people),1,79.99,6.2,86.19,86.19,Square Credit/Debit Card,Eastvale,2023-04-06,Thursday,April,2023,14
+Anaheim,Biriyani Factory,638945,Kiran Chirra,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.7,65.69,65.69,Square Credit/Debit Card,Santa Clarita,2023-04-06,Thursday,April,2023,14
+Anaheim,Biriyani Factory,638946,Himatha,Natu Kodi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-04-06,Thursday,April,2023,14
+Anaheim,Biriyani Factory,638984,Gangadharan Natesan,Hyderabadi Veg Bucket Briyani (Serve 4 to 5 people),1,44.99,3.49,48.48,48.48,Square Apple Pay,Eastvale,2023-04-06,Thursday,April,2023,14
+Anaheim,Biriyani Factory,638985,Lavanya Chandra,Hyderabadi Goat Bucket Biriyani  (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Apple Pay,Irvine,2023-04-06,Thursday,April,2023,14
+Anaheim,Kizhi Parotta,638985,Lavanya Chandra,Kizhi Parotta Non Veg Bundle (serves 4 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Irvine,2023-04-06,Thursday,April,2023,14
+Anaheim,Ramzan Special,638985,Lavanya Chandra,Ramzan Special Bundle (Serves 4 to 5 people),1,79.99,6.2,86.19,86.19,Square Apple Pay,Irvine,2023-04-06,Thursday,April,2023,14
+Anaheim,Ramzan Special,638971,Siju Prakasam,Ramzan Special Bundle (Serves 4 to 5 people),1,79.99,6.2,86.19,86.19,Square Credit/Debit Card,Chino,2023-04-06,Thursday,April,2023,14
+Anaheim,Biriyani Factory,639096,Aruljoysuresh Arockiam,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Apple Pay,Eastvale,2023-04-07,Friday,April,2023,14
+Anaheim,Biriyani Factory,639103,Shaivalya Vennapoosa,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,6.12,76.11,76.11,Paypal,Redlands,2023-04-08,Saturday,April,2023,14
+Anaheim,Biriyani Factory,639103,Shaivalya Vennapoosa,Charminar Boneless Chicken Bucket Briyani (Serve 4 to 5 people),1,59.99,5.25,65.24,65.24,Paypal,Redlands,2023-04-08,Saturday,April,2023,14
+Anaheim,Biriyani Factory,639103,Shaivalya Vennapoosa,Bezawada Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,5.25,65.24,65.24,Paypal,Redlands,2023-04-08,Saturday,April,2023,14
+Anaheim,Just Curry,639107,Krishna Medasani,Telugu Veg Bundle,1,64.99,5.36,70.35,70.35,Paypal,Bakersfield,2023-04-08,Saturday,April,2023,14
+Anaheim,Ramzan Special,639107,Krishna Medasani,Ramzan Special Bundle (Serves 4 to 5 people),1,79.99,6.6,86.59,86.59,Paypal,Bakersfield,2023-04-08,Saturday,April,2023,14
+Anaheim,Biriyani Factory,639109,Maragatha Lakshmi Umapathy ,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-04-08,Saturday,April,2023,14
+Anaheim,Biriyani Factory,639113,Ram Raju,Thalappakatti Goat Bucket Biriyani (Serve 4 to 5 people),1,69.99,5.42,75.41,75.41,Square Credit/Debit Card,Eastvale,2023-04-08,Saturday,April,2023,14
+Anaheim,Aachi Chettinad,639126,BIJIN BABY,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,6.59,91.58,91.58,Paypal, Anaheim,2023-04-08,Saturday,April,2023,14
+Anaheim,Biriyani Factory,639128,Sundeep,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Apple Pay,Chino,2023-04-08,Saturday,April,2023,14
+Anaheim,Aachi Chettinad,639140,Antony Jayaprakash,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,7.44,92.43,92.43,Paypal,Redlands,2023-04-08,Saturday,April,2023,14
+Anaheim,Aachi Chettinad,639144,Prem Vargees ,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,7.44,92.43,92.43,Square Credit/Debit Card,Ontario,2023-04-08,Saturday,April,2023,14
+Anaheim,Ramzan Special,639150,Sreedhar Kollu,Ramzan Special Bundle (Serves 4 to 5 people),1,79.99,8.2,88.19,88.19,Square Credit/Debit Card,Burbank,2023-04-08,Saturday,April,2023,14
+Anaheim,Ramzan Special,639167,Archana Yalavarthi,Ramzan Special Bundle (Serves 4 to 5 people),1,79.99,7.6,87.59,87.59,Square Credit/Debit Card,Santa Clarita,2023-04-08,Saturday,April,2023,14
+Anaheim,Aachi Chettinad,639171,Leslie,Vaala Illai Kari Virundhu (Serves 4 to 5 people),1,84.99,8.07,93.06,93.06,Square Credit/Debit Card,Santa Clarita,2023-04-08,Saturday,April,2023,14
+Anaheim,Ramzan Special,639192,Mohamed Saleem,Ramzan Special Bundle (Serves 4 to 5 people),1,79.99,6.2,86.19,86.19,Paypal,Irvine,2023-04-08,Saturday,April,2023,14
+Anaheim,Biriyani Factory,639228,Newton Philominraj,Ambur Chicken Bucket Biriyani  (Serve 4 to 5 people),1,59.99,5.25,65.24,65.24,Square Credit/Debit Card,Ontario,2023-04-08,Saturday,April,2023,14
+Anaheim,Biriyani Factory,639244,Paul Sunny,Nizam Boneless Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card,Irvine,2023-04-08,Saturday,April,2023,14
+Anaheim,Biriyani Factory,639276,Srikanth,Hyderabadi Chicken Bucket Biriyani (Serve 4 to 5 people),1,59.99,4.65,64.64,64.64,Square Credit/Debit Card, Anaheim,2023-04-09,Sunday,April,2023,14
+Anaheim,Jay Krishna,639279,Neha,Butta Bhojanam Basket Thali (Serve 3 to 4 people),1,54.99,4.26,59.25,59.25,Square Credit/Debit Card, Anaheim,2023-04-09,Sunday,April,2023,14
