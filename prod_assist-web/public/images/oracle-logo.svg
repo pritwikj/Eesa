@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_58" data-name="Rectangle 58" width="85" height="85" transform="translate(206 89)" fill="#e7ebee"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_25" data-name="Mask Group 25" transform="translate(-206 -89)" clip-path="url(#clip-path)">
+    <path id="_4691480_oracle_icon" data-name="4691480_oracle_icon" d="M58.126,2.941H26.888A26.874,26.874,0,0,0,26.86,56.69H58.126a26.874,26.874,0,0,0,0-53.748Zm-.684,44.278H27.575a17.406,17.406,0,1,1,0-34.811l29.867,0a17.4,17.4,0,1,1,0,34.808Z" transform="translate(206 101.685)" fill="#fc0d0d"/>
+  </g>
+</svg>
